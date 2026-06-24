@@ -1,5 +1,7 @@
 /vendor
 /.tools
+__pycache__/
+*.pyc
 /.env
 /storage/*.key
 /storage/app/*
