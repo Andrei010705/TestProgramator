@@ -4,7 +4,7 @@
     "description": "Laravel MVP scaffold for product YouTube video verification.",
     "require": {
         "php": "^8.2",
-        "laravel/framework": "^11.0",
+        "laravel/framework": "^12.0",
         "guzzlehttp/guzzle": "^7.8"
     },
     "require-dev": {
